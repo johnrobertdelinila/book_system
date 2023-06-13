@@ -1,0 +1,373 @@
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\roslyn\csc.exe
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\roslyn\vbc.exe
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\BlackBooksApp.dll.config
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\BlackBooksApp.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\BlackBooksApp.pdb
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\Antlr3.Runtime.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\EntityFramework.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\EntityFramework.SqlServer.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\Microsoft.Owin.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\Microsoft.Owin.Security.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\MySql.Data.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\MySql.Data.Entity.EF6.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\Newtonsoft.Json.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\Owin.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\System.Web.Helpers.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\System.Web.Mvc.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\System.Web.Optimization.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\System.Web.Razor.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\System.Web.WebPages.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\WebGrease.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\EntityFramework.xml
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\EntityFramework.SqlServer.xml
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\MySql.Data.xml
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\MySql.Data.Entity.EF6.xml
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\System.Web.Helpers.xml
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\System.Web.Mvc.xml
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\System.Web.Optimization.xml
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\System.Web.Razor.xml
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\System.Web.WebPages.xml
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\Antlr3.Runtime.pdb
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\Newtonsoft.Json.xml
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\Microsoft.Owin.xml
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\Microsoft.Owin.Security.xml
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\ru\System.Web.Razor.resources.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\obj\Debug\BlackBooksApp.dll
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\obj\Debug\BlackBooksApp.pdb
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\obj\Debug\BlackBooksApp.Migrations.InitialCreate.resources
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\obj\Debug\BlackBooksApp.csproj.GenerateResource.Cache
+C:\Users\limar\Desktop\папка со всем\учёба\3 курс\6 семестр\уд\курсач\blackbooks\BlackBooksApp\BlackBooksApp\obj\Debug\BlackBooksApp.csprojResolveAssemblyReference.cache
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\roslyn\csc.exe
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\roslyn\vbc.exe
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\BlackBooksApp.dll.config
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\BlackBooksApp.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\BlackBooksApp.pdb
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\Antlr3.Runtime.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\EntityFramework.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\EntityFramework.SqlServer.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\Microsoft.Owin.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\Microsoft.Owin.Security.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\MySql.Data.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\MySql.Data.Entity.EF6.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\Newtonsoft.Json.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\Owin.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\System.Web.Helpers.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\System.Web.Mvc.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\System.Web.Optimization.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\System.Web.Razor.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\System.Web.WebPages.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\WebGrease.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\EntityFramework.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\EntityFramework.SqlServer.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\MySql.Data.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\MySql.Data.Entity.EF6.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\System.Web.Helpers.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\System.Web.Mvc.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\System.Web.Optimization.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\System.Web.Razor.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\System.Web.WebPages.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\Antlr3.Runtime.pdb
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\Newtonsoft.Json.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\Microsoft.Owin.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\Microsoft.Owin.Security.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\ru\System.Web.Razor.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\obj\Debug\BlackBooksApp.csproj.AssemblyReference.cache
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\obj\Debug\BlackBooksApp.Migrations.InitialCreate.resources
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\obj\Debug\BlackBooksApp.csproj.GenerateResource.cache
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\obj\Debug\BlackBooksApp.csproj.CoreCompileInputs.cache
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\obj\Debug\BlackBooksApp.csproj.CopyComplete
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\obj\Debug\BlackBooksApp.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master\BlackBooksApp\obj\Debug\BlackBooksApp.pdb
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\roslyn\csc.exe
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\roslyn\vbc.exe
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\BlackBooksApp.dll.config
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\BlackBooksApp.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\BlackBooksApp.pdb
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\Antlr3.Runtime.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\EntityFramework.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\EntityFramework.SqlServer.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\Microsoft.Owin.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\Microsoft.Owin.Security.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\MySql.Data.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\MySql.Data.Entity.EF6.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\Newtonsoft.Json.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\Owin.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\System.Web.Helpers.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\System.Web.Mvc.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\System.Web.Optimization.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\System.Web.Razor.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\System.Web.WebPages.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\WebGrease.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\EntityFramework.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\EntityFramework.SqlServer.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\MySql.Data.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\MySql.Data.Entity.EF6.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\System.Web.Helpers.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\System.Web.Mvc.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\System.Web.Optimization.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\System.Web.Razor.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\System.Web.WebPages.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\Antlr3.Runtime.pdb
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\Newtonsoft.Json.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\Microsoft.Owin.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\Microsoft.Owin.Security.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\ru\System.Web.Razor.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\obj\Debug\BlackBooksApp.Migrations.InitialCreate.resources
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\obj\Debug\BlackBooksApp.csproj.GenerateResource.cache
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\obj\Debug\BlackBooksApp.csproj.CoreCompileInputs.cache
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\obj\Debug\BlackBooksApp.csproj.CopyComplete
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\obj\Debug\BlackBooksApp.dll
+C:\Users\PNPKI_JohnRobert\source\repos\BlackBooksApp-master - Updated\BlackBooksApp\obj\Debug\BlackBooksApp.pdb
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\roslyn\csc.exe
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\roslyn\vbc.exe
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\BlackBooksApp.dll.config
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\BlackBooksApp.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\BlackBooksApp.pdb
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\Antlr3.Runtime.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\EntityFramework.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\EntityFramework.SqlServer.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\Microsoft.Owin.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\Microsoft.Owin.Security.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\MySql.Data.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\MySql.Data.Entity.EF6.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\Newtonsoft.Json.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\Owin.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\System.Web.Helpers.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\System.Web.Mvc.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\System.Web.Optimization.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\System.Web.Razor.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\System.Web.WebPages.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\WebGrease.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\EntityFramework.xml
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\EntityFramework.SqlServer.xml
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\MySql.Data.xml
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\MySql.Data.Entity.EF6.xml
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\System.Web.Helpers.xml
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\System.Web.Mvc.xml
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\System.Web.Optimization.xml
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\System.Web.Razor.xml
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\System.Web.WebPages.xml
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\Antlr3.Runtime.pdb
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\Newtonsoft.Json.xml
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\Microsoft.Owin.xml
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\Microsoft.Owin.Security.xml
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\ru\System.Web.Razor.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\obj\Debug\BlackBooksApp.csproj.AssemblyReference.cache
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\obj\Debug\BlackBooksApp.Migrations.InitialCreate.resources
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\obj\Debug\BlackBooksApp.csproj.GenerateResource.cache
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\obj\Debug\BlackBooksApp.csproj.CoreCompileInputs.cache
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\obj\Debug\BlackBooksApp.csproj.CopyComplete
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\obj\Debug\BlackBooksApp.dll
+C:\Users\PNPKI_JohnRobert\source\repos\Books System\BlackBooksApp\obj\Debug\BlackBooksApp.pdb

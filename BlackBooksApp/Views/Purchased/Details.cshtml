@@ -1,0 +1,81 @@
+﻿@model BlackBooksApp.Models.Purchased
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>View More Details of Ordered</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.PurchaseId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Purchase.Client.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BookId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Book.ISBN)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Book.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Book.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Book.Author)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Book.Author)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Book.Pages)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Book.Pages)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.OrderPrice)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OrderPrice)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Number)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Number)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Total)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Total)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Cancel", "Index")
+</p>

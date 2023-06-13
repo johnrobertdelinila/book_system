@@ -1,0 +1,78 @@
+﻿@model IEnumerable<BlackBooksApp.Models.Purchase>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Orders</h2>
+
+<p style="float:left;">
+    @Html.ActionLink("New Order", "Create")
+</p>
+
+@using (Html.BeginForm())
+{
+    <p style="float:right;">
+        Search by order date: @Html.TextBox("SearchString")
+        <input type="submit" value="Search" />
+    </p>
+}
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.EmployeeId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ClientId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DeliveryId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Ordate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Address)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Delcost)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Saledate)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Employee.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Client.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Delivery.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Ordate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Address)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Delcost)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Saledate)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+            @Html.ActionLink("View More", "Details", new { id = item.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+        </td>
+    </tr>
+}
+
+</table>

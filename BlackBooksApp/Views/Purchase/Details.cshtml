@@ -1,0 +1,108 @@
+﻿@model BlackBooksApp.Models.Purchase
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>View More Details of orders</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.EmployeeId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Employee.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ClientId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Client.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DeliveryId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Delivery.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Ordate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ordate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Address)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Address)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Delcost)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Delcost)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Saledate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Saledate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PurchasedBooks)
+        </dt>
+        <dd>
+            <table class="table">
+                <tr>
+                    <th>Name</th>
+                    <th>Author</th>
+                    <th>Price Books</th>
+                    <th>Quantity</th>
+                    <th>Total</th>
+                </tr>
+                @foreach (var item in Model.PurchasedBooks)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Book.Name)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Book.Author)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.OrderPrice)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Number)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Total)
+                        </td>
+                    </tr>
+                }
+            </table>
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Cancel", "Index")
+</p>
