@@ -23,7 +23,7 @@ namespace BlackBooksApp.Models
         [Display(Name = "Telephone")]
         public string Phone { get; set; }
 
-        [Display(Name = "Books данного Publishers")]
+        [Display(Name = "Books by this Publishers")]
         public virtual ICollection<Book> Books { get; set; }
     }
 }

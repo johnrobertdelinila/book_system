@@ -13,7 +13,7 @@ namespace BlackBooksApp.Models
         [DatabaseGenerated(DatabaseGeneratedOption.None)]
         public int Id { get; set; }
 
-        /// <summary>Возвращает идентификатор Employeeа.</summary>
+        /// <summary>Возвращает идентификатор Employee.</summary>
         [Display(Name = "Employee")]
         public int EmployeeId { get; set; }
 

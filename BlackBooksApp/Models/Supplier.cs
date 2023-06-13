@@ -8,10 +8,10 @@ namespace BlackBooksApp.Models
 {
     public class Supplier
     {
-        /// <summary>Возвращает идентификатор Providerа.</summary>
+        /// <summary>Возвращает идентификатор Provider.</summary>
         public int Id { get; set; }
 
-        /// <summary>Возвращает имя Providerа.</summary>
+        /// <summary>Возвращает имя Provider.</summary>
         [Display(Name = "Name")]
         public string Name { get; set; }
 
@@ -23,11 +23,11 @@ namespace BlackBooksApp.Models
         [Display(Name = "Job title")]
         public string Position { get; set; }
 
-        /// <summary>Возвращает Legal Address Providerа.</summary>
+        /// <summary>Возвращает Legal Address Provider.</summary>
         [Display(Name = "Legal Address")]
         public string Address { get; set; }
 
-        /// <summary>Возвращает Telephone Providerа.</summary>
+        /// <summary>Возвращает Telephone Provider.</summary>
         [Display(Name = "Telephone")]
         public string Phone { get; set; }
 
@@ -35,7 +35,7 @@ namespace BlackBooksApp.Models
         [Display(Name = "About company")]
         public string AboutCompany { get; set; }
 
-        [Display(Name = "Books от данного Providerа")]
+        [Display(Name = "Books от by this Provider")]
         public virtual ICollection<Book> Books { get; set; }
     }
 }

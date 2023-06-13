@@ -158,7 +158,7 @@ namespace BlackBooksApp.Controllers
                     await SignInManager.SignInAsync(user, isPersistent:false, rememberBrowser:false);
                     
                     // Дополнительные сведения о том, как включить подтверждение учетной записи и сброс пароля, см. по Addressу: http://go.microsoft.com/fwlink/?LinkID=320771
-                    // Отправка сообщения электронной почты с этой ссылкой
+                    // Отправка сообщения электронной почты с thisй ссылкой
                     // string code = await UserManager.GenerateEmailConfirmationTokenAsync(user.Id);
                     // var callbackUrl = Url.Action("ConfirmEmail", "Account", new { userId = user.Id, code = code }, protocol: Request.Url.Scheme);
                     // await UserManager.SendEmailAsync(user.Id, "Подтверждение учетной записи", "Подтвердите вашу учетную запись, щелкнув <a href=\"" + callbackUrl + "\">здесь</a>");
@@ -168,7 +168,7 @@ namespace BlackBooksApp.Controllers
                 AddErrors(result);
             }
 
-            // Появление этого сообщения означает наличие ошибки; повторное отображение формы
+            // Появление this сообщения означает наличие ошибки; повторное отображение формы
             return View(model);
         }
 
@@ -210,14 +210,14 @@ namespace BlackBooksApp.Controllers
                 }
 
                 // Дополнительные сведения о том, как включить подтверждение учетной записи и сброс пароля, см. по Addressу: http://go.microsoft.com/fwlink/?LinkID=320771
-                // Отправка сообщения электронной почты с этой ссылкой
+                // Отправка сообщения электронной почты с thisй ссылкой
                 // string code = await UserManager.GeneratePasswordResetTokenAsync(user.Id);
                 // var callbackUrl = Url.Action("ResetPassword", "Account", new { userId = user.Id, code = code }, protocol: Request.Url.Scheme);		
                 // await UserManager.SendEmailAsync(user.Id, "Сброс пароля", "Сбросьте ваш Password, щелкнув <a href=\"" + callbackUrl + "\">здесь</a>");
                 // return RedirectToAction("ForgotPasswordConfirmation", "Account");
             }
 
-            // Появление этого сообщения означает наличие ошибки; повторное отображение формы
+            // Появление this сообщения означает наличие ошибки; повторное отображение формы
             return View(model);
         }
 
@@ -328,7 +328,7 @@ namespace BlackBooksApp.Controllers
                 return RedirectToAction("Login");
             }
 
-            // Выполнение входа пользователя посредством данного внешнего Providerа входа, если у пользователя уже есть имя входа
+            // Выполнение входа пользователя посредством by this внешнего Provider входа, если у пользователя уже есть имя входа
             var result = await SignInManager.ExternalSignInAsync(loginInfo, isPersistent: false);
             switch (result)
             {
@@ -361,7 +361,7 @@ namespace BlackBooksApp.Controllers
 
             if (ModelState.IsValid)
             {
-                // Получение сведений о пользователе от внешнего Providerа входа
+                // Получение сведений о пользователе от внешнего Provider входа
                 var info = await AuthenticationManager.GetExternalLoginInfoAsync();
                 if (info == null)
                 {

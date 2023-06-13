@@ -23,7 +23,7 @@ namespace BlackBooksApp.Models
         [Display(Name = "Price Delivery")]
         public int Cost { get; set; }
 
-        [Display(Name = "Orders для данной Delivery Services")]
+        [Display(Name = "Orders for this Delivery Services")]
         public virtual ICollection<Purchase> Purchases { get; set; }
     }
 }

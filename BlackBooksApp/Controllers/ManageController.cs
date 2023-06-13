@@ -189,7 +189,7 @@ namespace BlackBooksApp.Controllers
                 }
                 return RedirectToAction("Index", new { Message = ManageMessageId.AddPhoneSuccess });
             }
-            // Это сообщение означает наличие ошибки; повторное отображение формы
+            // this сообщение означает наличие ошибки; повторное отображение формы
             ModelState.AddModelError("", "Не удалось проверить Telephone");
             return View(model);
         }
@@ -272,7 +272,7 @@ namespace BlackBooksApp.Controllers
                 AddErrors(result);
             }
 
-            // Это сообщение означает наличие ошибки; повторное отображение формы
+            // this сообщение означает наличие ошибки; повторное отображение формы
             return View(model);
         }
 

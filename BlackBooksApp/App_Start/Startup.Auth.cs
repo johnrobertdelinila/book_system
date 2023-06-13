@@ -20,7 +20,7 @@ namespace BlackBooksApp
             app.CreatePerOwinContext<ApplicationSignInManager>(ApplicationSignInManager.Create);
 
             // Включение использования файла cookie, в котором приложение может хранить информацию для пользователя, выполнившего вход,
-            // и использование файла cookie для временного хранения информации о входах пользователя с помощью стороннего Providerа входа
+            // и использование файла cookie для временного хранения информации о входах пользователя с помощью стороннего Provider входа
             // Настройка файла cookie для входа
             app.UseCookieAuthentication(new CookieAuthenticationOptions
             {
@@ -40,8 +40,8 @@ namespace BlackBooksApp
             // Позволяет приложению временно хранить информацию о пользователе, пока проверяется второй фактор двухфакторной проверки подлинности.
             app.UseTwoFactorSignInCookie(DefaultAuthenticationTypes.TwoFactorCookie, TimeSpan.FromMinutes(5));
 
-            // Позволяет приложению запомнить второй фактор проверки имени входа. Например, это может быть Telephone или почта.
-            // Если выбрать этот параметр, то на устройстве, с помощью которого вы входите, будет сохранен второй шаг проверки при входе.
+            // Позволяет приложению запомнить второй фактор проверки имени входа. Например, this может быть Telephone или почта.
+            // Если выбрать thisт параметр, то на устройстве, с помощью которого вы входите, будет сохранен второй шаг проверки при входе.
             // Точно так же действует параметр RememberMe при входе.
             app.UseTwoFactorRememberBrowserCookie(DefaultAuthenticationTypes.TwoFactorRememberBrowserCookie);
 

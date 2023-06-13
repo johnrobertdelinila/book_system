@@ -8,14 +8,14 @@ namespace BlackBooksApp.Models
 {
     public class Employee
     {
-        /// <summary>Возвращает или задает идентификатор Employeeа.</summary>
+        /// <summary>Возвращает или задает идентификатор Employee.</summary>
         public int Id { get; set; }
 
-        /// <summary>Возвращает или задает Full name Employeeа.</summary>
+        /// <summary>Возвращает или задает Full name Employee.</summary>
         [Display(Name = "Full name")]
         public string Name { get; set; }
 
-        /// <summary>Возвращает или задает дату рождения Employeeа.</summary>
+        /// <summary>Возвращает или задает дату рождения Employee.</summary>
         [Display(Name = "Date of Birth")]
         public string Birthday { get; set; }
 
@@ -31,7 +31,7 @@ namespace BlackBooksApp.Models
         [Display(Name = "Job title")]
         public string Position { get; set; }
 
-        [Display(Name = "Orders данного Employeeа")]
+        [Display(Name = "Orders by this Employee")]
         public virtual ICollection<Purchase> Purchases { get; set; }
     }
 }

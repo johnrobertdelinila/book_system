@@ -27,7 +27,7 @@ namespace BlackBooksApp.Models
         [Display(Name = "Telephone")]
         public string Phone { get; set; }
 
-        [Display(Name = "Orders от данного Client")]
+        [Display(Name = "Orders от by this Client")]
         public virtual ICollection<Purchase> Purchases { get; set; }
     }
 }

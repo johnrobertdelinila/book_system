@@ -15,7 +15,7 @@ namespace BlackBooksApp.Models
         [Display(Name = "Publishing house")]
         public int PublishingHouseId { get; set; }
 
-        /// <summary>Возвращает идентификатор Providerа.</summary>
+        /// <summary>Возвращает идентификатор Provider.</summary>
         [Display(Name = "Provider")]
         public int SupplierId { get; set; }
 

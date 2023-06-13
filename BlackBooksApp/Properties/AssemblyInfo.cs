@@ -4,7 +4,7 @@ using System.Runtime.InteropServices;
 
 // Control общими сведениями о сборке осуществляется следующим образом
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
-// связанных с этой сборкой.
+// связанных с thisй сборкой.
 [assembly: AssemblyTitle("BlackBooksApp")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
@@ -14,12 +14,12 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
-// Установка значения False в параметре ComVisible делает Types в этой сборке невидимыми
-// для компонентов COM.  Если требуется обратиться к типу в этой сборке через
+// Установка значения False в параметре ComVisible делает Types в thisй сборке невидимыми
+// для компонентов COM.  Если требуется обратиться к типу в thisй сборке через
 // COM, задайте атрибуту ComVisible значение true для требуемого типа.
 [assembly: ComVisible(false)]
 
-// Следующий GUID служит для ID библиотеки типов typelib, если этот проект видим для COM
+// Следующий GUID служит для ID библиотеки типов typelib, если thisт проект видим для COM
 [assembly: Guid("df410a08-5d6f-4e1f-b40b-21e9b9dda550")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
